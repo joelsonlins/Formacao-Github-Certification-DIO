@@ -33,10 +33,10 @@
 <details>
   <summary>Produtos do Github (5 atividades)</summary>
  
-   -  [] Sobre Contas e Ferramentas(1hr)
-   -  [] Gerenciando Seu Trabalho Com Github Projects(1hrs)
-   -  [] Github Copilot(1rhs)
-   -  [] Github Codespace(1hrs)
+   -  [x] Sobre Contas e Ferramentas(1hr)
+   -  [x] Gerenciando Seu Trabalho Com Github Projects(1hrs)
+   -  [x] Github Copilot(1rhs)
+   -  [x] Github Codespace(1hrs)
    -  [] Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python(1hr)
   
 </details>

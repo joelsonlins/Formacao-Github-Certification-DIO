@@ -89,5 +89,7 @@ O que aprenderemos?
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
 
-> 👉 [solução](https://github.com/joelsonlins/Formacao-Github-Certification-DIO/blob/main/Desafios/verif_palindromos.py) 👈	
-> <em> Formatação do README.md retirado ditero da aula</em>
+> 👉 [solução](https://github.com/joelsonlins/Formacao-Github-Certification-DIO/blob/main/Desafios/verif_palindromos.py) 👈
+
+<br>
+<em> Formatação do README.md retirado ditero da aula</em>

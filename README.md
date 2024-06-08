@@ -43,7 +43,7 @@
 <details>
  <summary>✅Administração do Github (3 Atividades)</summary>
 
-  -  [x] Conhecendo a Administração do Github(4hrs)
+  -  [x] Conhecendo a Administração do Github(1hrs)
   -  [x] Utilizando Recuros do Github em um Projeto Open Source(1hrs)
   -  [x] Avalie a Formação de Github Certifications(1hrs)
          
@@ -56,7 +56,7 @@
   -  [x] Utilizando as Ferramentas do Github para Solucionar Algoritos em Python(1hr)
   -  [x] Avalie a Formação de Github Certifications(1hr)
 
-> A criação deste reposítório e suas dependencias configura a conclusão dos desafios acima    
+> A criação deste reposítório e suas dependências configura a conclusão dos desafios acima    
 
 
 <h2 id="tecnologias">🛠 Tecnologia(s) e Ferramenta(s) Utilizada(s)</h2>

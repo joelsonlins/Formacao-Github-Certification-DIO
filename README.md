@@ -31,31 +31,42 @@
   
 </details>
 <details>
-  <summary>Produtos do Github (5 atividades)</summary>
+  <summary>✅Produtos do Github (5 atividades)</summary>
  
    -  [x] Sobre Contas e Ferramentas(1hr)
    -  [x] Gerenciando Seu Trabalho Com Github Projects(1hrs)
    -  [x] Github Copilot(1rhs)
    -  [x] Github Codespace(1hrs)
-   -  [] Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python(1hr)
+   -  [x] Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python(1hr)
   
 </details>
 <details>
- <summary>Administração do Github (3 Atividades)</summary>
+ <summary>✅Administração do Github (3 Atividades)</summary>
 
-  -  [] Conhecendo a Administração do Github(4hrs)
-  -  [] Utilizando Recuros do Github em um Projeto Open Source(1hrs)
-  -  [] Avalie a Formação de Github Certifications(1hrs)
+  -  [x] Conhecendo a Administração do Github(4hrs)
+  -  [x] Utilizando Recuros do Github em um Projeto Open Source(1hrs)
+  -  [x] Avalie a Formação de Github Certifications(1hrs)
          
 </details>
 
-<h2 id="projetos">⚔🎯 Projetos + Desafios</h2>
+<h2 id="projetos">⚔🎯 Projetos + Desafios</h2> 
 
-<h2 id="tecnologias">🛠 Tecnologias e Ferramentas Utilizadas</h2>
+
+  -  [x] Explorando Colaborações e Markdow(1hr)
+  -  [x] Utilizando as Ferramentas do Github para Solucionar Algoritos em Python(1hr)
+  -  [x] Avalie a Formação de Github Certifications(1hr)
+
+> A criação deste reposítório e suas dependencias configura a conclusão dos desafios acima    
+
+
+<h2 id="tecnologias">🛠 Tecnologia(s) e Ferramenta(s) Utilizada(s)</h2>
 
 1. <a href="https://github.com/" target="_blank">GitHub</a>
+2. <a href="https://aline-antunes.gitbook.io/formacao-fundamentos-github" target="_blank">Gitbook do Curso</a>
+
 
 
 <h2 id="certificado">👨🏾‍🎓 ✅Certificado de Conclusão</h2>
 
+<a href="https://www.dio.me/certificate/65KQG2BD" target="_blank">	👉 Certificado de conclusão. 👈 </a>
 
